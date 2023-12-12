@@ -1,0 +1,10 @@
+﻿  Bloom.cpp
+d:\file\opengl\5_7_bloom\bloom\bloom.cpp(185): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_7_bloom\bloom\bloom.cpp(483): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_7_bloom\bloom\bloom.cpp(484): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_7_bloom\bloom\bloom.cpp(488): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_7_bloom\bloom\bloom.cpp(489): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_7_bloom\bloom\bloom.cpp(491): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_7_bloom\bloom\bloom.cpp(492): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_7_bloom\bloom\bloom.cpp(501): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Bloom.vcxproj -> D:\File\OpenGL\5_7_Bloom\Debug\Bloom.exe

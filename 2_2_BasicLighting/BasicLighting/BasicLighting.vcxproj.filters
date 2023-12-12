@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicLighting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="lamp.fs">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="shader.fs">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="shader.vs">
+      <Filter>源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{ce8b10c8-05ae-45c2-8e74-759d3cd5e184}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{44f13353-0d2e-4b6b-8378-cc21348580cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源">
+      <UniqueIdentifier>{1ebc6a6d-e0c0-404a-b3e2-111fe15a80fa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="资源文件\levels">
+      <UniqueIdentifier>{61961d4e-9d3f-490a-8e1d-5f3c9c72886b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\textures">
+      <UniqueIdentifier>{77097856-88d3-487b-b144-f93c2406bfc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\shaders">
+      <UniqueIdentifier>{d823c17d-2227-4679-9963-534f31d33c11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\audio">
+      <UniqueIdentifier>{901b14ca-16d7-48b5-8b57-ae052cbcbfa4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\fonts">
+      <UniqueIdentifier>{36a59244-6164-4a68-83c0-cb6291a55c20}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="texture.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="resource_manager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sprite_renderer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="program.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="game_level.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="game_object.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ball_object.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="particle_generator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="post_processor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="text_renderer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource_manager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="texture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sprite_renderer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="game_object.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="game_level.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ball_object.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="particle_generator.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="post_processor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="power_up.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="text_renderer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="four.lvl">
+      <Filter>资源文件\levels</Filter>
+    </None>
+    <None Include="one.lvl">
+      <Filter>资源文件\levels</Filter>
+    </None>
+    <None Include="three.lvl">
+      <Filter>资源文件\levels</Filter>
+    </None>
+    <None Include="two.lvl">
+      <Filter>资源文件\levels</Filter>
+    </None>
+    <None Include="shaders\particle.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="shaders\particle.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="shaders\sprite.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="shaders\sprite.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="shaders\post_processing.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="shaders\post_processing.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="shaders\text_rendering.fs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+    <None Include="shaders\text_rendering.vs">
+      <Filter>源文件\shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="awesomeface.png">
+      <Filter>资源文件\textures</Filter>
+    </Image>
+    <Image Include="background.jpg">
+      <Filter>资源文件\textures</Filter>
+    </Image>
+    <Image Include="block.png">
+      <Filter>资源文件\textures</Filter>
+    </Image>
+    <Image Include="block_solid.png">
+      <Filter>资源文件\textures</Filter>
+    </Image>
+    <Image Include="paddle.png">
+      <Filter>资源文件\textures</Filter>
+    </Image>
+    <Image Include="textures\particle.png">
+      <Filter>资源文件\textures</Filter>
+    </Image>
+    <Image Include="textures\powerup_chaos.png">
+      <Filter>资源文件\textures</Filter>
+    </Image>
+    <Image Include="textures\powerup_confuse.png">
+      <Filter>资源文件\textures</Filter>
+    </Image>
+    <Image Include="textures\powerup_increase.png">
+      <Filter>资源文件\textures</Filter>
+    </Image>
+    <Image Include="textures\powerup_passthrough.png">
+      <Filter>资源文件\textures</Filter>
+    </Image>
+    <Image Include="textures\powerup_speed.png">
+      <Filter>资源文件\textures</Filter>
+    </Image>
+    <Image Include="textures\powerup_sticky.png">
+      <Filter>资源文件\textures</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="audio\breakout.mp3">
+      <Filter>资源文件\audio</Filter>
+    </Media>
+    <Media Include="audio\bleep.mp3">
+      <Filter>资源文件\audio</Filter>
+    </Media>
+    <Media Include="audio\bleep.wav">
+      <Filter>资源文件\audio</Filter>
+    </Media>
+    <Media Include="audio\powerup.wav">
+      <Filter>资源文件\audio</Filter>
+    </Media>
+    <Media Include="audio\solid.wav">
+      <Filter>资源文件\audio</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="fonts\OCRAEXT.TTF">
+      <Filter>资源文件\fonts</Filter>
+    </Font>
+  </ItemGroup>
+</Project>

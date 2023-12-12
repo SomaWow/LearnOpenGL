@@ -1,0 +1,6 @@
+﻿  Practice.cpp
+d:\file\opengl\practice\practice\practice.cpp(194): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\practice\practice\practice.cpp(195): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\practice\practice\practice.cpp(196): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\practice\practice\practice.cpp(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Practice.vcxproj -> D:\File\OpenGL\Practice\Debug\Practice.exe

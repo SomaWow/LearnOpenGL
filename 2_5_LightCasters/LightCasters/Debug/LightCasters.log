@@ -1,0 +1,11 @@
+﻿  LightCasters.cpp
+d:\software\opengl\include\shader.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\file\opengl\2_5_lightcasters\lightcasters\lightcasters.cpp(179): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_5_lightcasters\lightcasters\lightcasters.cpp(289): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_5_lightcasters\lightcasters\lightcasters.cpp(290): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_5_lightcasters\lightcasters\lightcasters.cpp(294): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_5_lightcasters\lightcasters\lightcasters.cpp(295): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_5_lightcasters\lightcasters\lightcasters.cpp(296): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_5_lightcasters\lightcasters\lightcasters.cpp(297): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_5_lightcasters\lightcasters\lightcasters.cpp(306): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LightCasters.vcxproj -> D:\File\OpenGL\2_5_LightCasters\Debug\LightCasters.exe

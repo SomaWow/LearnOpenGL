@@ -1,0 +1,18 @@
+﻿  DeferredShading.cpp
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(146): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(147): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(148): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(151): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(152): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(153): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(165): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(208): warning C4305: “初始化”: 从“double”到“float”截断
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(209): warning C4305: “初始化”: 从“double”到“float”截断
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(382): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(383): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(387): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(388): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(390): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(391): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_8_deferredshading\deferredshading\deferredshading.cpp(400): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  DeferredShading.vcxproj -> D:\File\OpenGL\5_8_DeferredShading\Debug\DeferredShading.exe

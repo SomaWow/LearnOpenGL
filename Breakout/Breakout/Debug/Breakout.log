@@ -1,0 +1,13 @@
+﻿  game.cpp
+d:\file\opengl\breakout\breakout\game.cpp(85): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+d:\file\opengl\breakout\breakout\game.cpp(87): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+d:\file\opengl\breakout\breakout\game.cpp(89): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+d:\file\opengl\breakout\breakout\game.cpp(91): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+d:\file\opengl\breakout\breakout\game.cpp(226): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\file\opengl\breakout\breakout\game.cpp(234): warning C4244: “参数”: 从“GLuint”转换到“GLfloat”，可能丢失数据
+d:\file\opengl\breakout\breakout\game.cpp(243): warning C4244: “参数”: 从“GLuint”转换到“GLfloat”，可能丢失数据
+d:\file\opengl\breakout\breakout\game.cpp(249): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+d:\file\opengl\breakout\breakout\game.cpp(251): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+d:\file\opengl\breakout\breakout\game.cpp(253): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+d:\file\opengl\breakout\breakout\game.cpp(255): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+  Breakout.vcxproj -> D:\File\OpenGL\Breakout\Debug\Breakout.exe

@@ -1,0 +1,13 @@
+﻿  4_9_GeometryShader.cpp
+d:\file\opengl\4_9_geometryshader\4_9_geometryshader\4_9_geometryshader.cpp(85): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_9_geometryshader\4_9_geometryshader\4_9_geometryshader.cpp(106): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_9_geometryshader\4_9_geometryshader\4_9_geometryshader.cpp(166): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_9_geometryshader\4_9_geometryshader\4_9_geometryshader.cpp(167): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_9_geometryshader\4_9_geometryshader\4_9_geometryshader.cpp(171): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_9_geometryshader\4_9_geometryshader\4_9_geometryshader.cpp(172): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_9_geometryshader\4_9_geometryshader\4_9_geometryshader.cpp(174): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_9_geometryshader\4_9_geometryshader\4_9_geometryshader.cpp(175): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_9_geometryshader\4_9_geometryshader\4_9_geometryshader.cpp(182): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  stb_image.cpp
+  正在生成代码...
+  4_9_GeometryShader.vcxproj -> D:\File\OpenGL\4_9_GeometryShader\Debug\4_9_GeometryShader.exe

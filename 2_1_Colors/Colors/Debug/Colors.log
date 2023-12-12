@@ -1,0 +1,13 @@
+﻿D:\software\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Camera.vcxproj, CoordinateSystems.vcxproj, Triangle.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Colors.cpp
+d:\software\opengl\include\shader.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\software\opengl\include\shader.h(105): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+d:\file\opengl\2_1_colors\colors\colors.cpp(151): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_1_colors\colors\colors.cpp(234): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_1_colors\colors\colors.cpp(235): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_1_colors\colors\colors.cpp(239): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_1_colors\colors\colors.cpp(240): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_1_colors\colors\colors.cpp(241): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_1_colors\colors\colors.cpp(242): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_1_colors\colors\colors.cpp(251): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Colors.vcxproj -> D:\file\OpenGL\2_1_Colors\Debug\Colors.exe

@@ -1,0 +1,11 @@
+﻿  LightingMaps.cpp
+d:\software\opengl\include\shader.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\file\opengl\2_4_lightingmaps\lightingmaps\lightingmaps.cpp(166): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_4_lightingmaps\lightingmaps\lightingmaps.cpp(262): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_4_lightingmaps\lightingmaps\lightingmaps.cpp(263): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_4_lightingmaps\lightingmaps\lightingmaps.cpp(267): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_4_lightingmaps\lightingmaps\lightingmaps.cpp(268): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_4_lightingmaps\lightingmaps\lightingmaps.cpp(269): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_4_lightingmaps\lightingmaps\lightingmaps.cpp(270): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_4_lightingmaps\lightingmaps\lightingmaps.cpp(279): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LightingMaps.vcxproj -> D:\File\OpenGL\2_4_LightingMaps\Debug\LightingMaps.exe

@@ -1,0 +1,10 @@
+﻿  Model.cpp
+d:\file\opengl\3_3_model\model\model.cpp(93): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\3_3_model\model\model.cpp(167): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\3_3_model\model\model.cpp(168): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\3_3_model\model\model.cpp(172): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\3_3_model\model\model.cpp(173): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\3_3_model\model\model.cpp(175): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\3_3_model\model\model.cpp(176): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\3_3_model\model\model.cpp(185): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Model.vcxproj -> D:\File\OpenGL\3_3_Model\Debug\Model.exe

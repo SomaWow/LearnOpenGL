@@ -1,0 +1,11 @@
+﻿  ShadowMapping.cpp
+d:\file\opengl\5_3_1_shadowmapping\shadowmapping\shadowmapping.cpp(162): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_1_shadowmapping\shadowmapping\shadowmapping.cpp(384): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_1_shadowmapping\shadowmapping\shadowmapping.cpp(411): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_1_shadowmapping\shadowmapping\shadowmapping.cpp(412): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_1_shadowmapping\shadowmapping\shadowmapping.cpp(416): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_1_shadowmapping\shadowmapping\shadowmapping.cpp(417): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_1_shadowmapping\shadowmapping\shadowmapping.cpp(419): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_1_shadowmapping\shadowmapping\shadowmapping.cpp(420): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_1_shadowmapping\shadowmapping\shadowmapping.cpp(429): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  ShadowMapping.vcxproj -> D:\File\OpenGL\5_3_1_ShadowMapping\Debug\ShadowMapping.exe

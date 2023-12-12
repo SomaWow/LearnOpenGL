@@ -1,0 +1,13 @@
+﻿  Instancing.cpp
+d:\file\opengl\4_10_instancing\instancing\instancing.cpp(91): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+d:\file\opengl\4_10_instancing\instancing\instancing.cpp(108): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_10_instancing\instancing\instancing.cpp(112): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\file\opengl\4_10_instancing\instancing\instancing.cpp(158): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_10_instancing\instancing\instancing.cpp(242): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_10_instancing\instancing\instancing.cpp(243): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_10_instancing\instancing\instancing.cpp(247): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_10_instancing\instancing\instancing.cpp(248): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_10_instancing\instancing\instancing.cpp(250): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_10_instancing\instancing\instancing.cpp(251): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_10_instancing\instancing\instancing.cpp(260): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Instancing.vcxproj -> D:\File\OpenGL\4_10_Instancing\Debug\Instancing.exe

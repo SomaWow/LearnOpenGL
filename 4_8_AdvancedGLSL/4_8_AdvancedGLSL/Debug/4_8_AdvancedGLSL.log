@@ -1,0 +1,13 @@
+﻿  4_8_AdvancedGLSL.cpp
+d:\file\opengl\4_8_advancedglsl\4_8_advancedglsl\4_8_advancedglsl.cpp(153): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_8_advancedglsl\4_8_advancedglsl\4_8_advancedglsl.cpp(238): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_8_advancedglsl\4_8_advancedglsl\4_8_advancedglsl.cpp(239): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_8_advancedglsl\4_8_advancedglsl\4_8_advancedglsl.cpp(243): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_8_advancedglsl\4_8_advancedglsl\4_8_advancedglsl.cpp(244): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_8_advancedglsl\4_8_advancedglsl\4_8_advancedglsl.cpp(246): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_8_advancedglsl\4_8_advancedglsl\4_8_advancedglsl.cpp(247): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_8_advancedglsl\4_8_advancedglsl\4_8_advancedglsl.cpp(254): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  glad.c
+d:\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: “APIENTRY”: 宏重定义
+  d:\software\opengl\include\glad\glad.h(32): note: 参见“APIENTRY”的前一个定义
+  4_8_AdvancedGLSL.vcxproj -> D:\File\OpenGL\4_8_AdvancedGLSL\Debug\4_8_AdvancedGLSL.exe

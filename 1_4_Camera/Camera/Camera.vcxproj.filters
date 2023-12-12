@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="awesomeface.png">
+      <Filter>资源</Filter>
+    </Image>
+    <Image Include="container.jpg">
+      <Filter>资源</Filter>
+    </Image>
+    <Image Include="wall.jpg">
+      <Filter>资源</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="3.3.shader.fs">
+      <Filter>资源</Filter>
+    </None>
+    <None Include="3.3.shader.vs">
+      <Filter>资源</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{5f37a99b-eb53-4bdc-8ddb-b656b4c57d86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{b235bb8c-e648-4ae9-991a-2fc0a853eb52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源">
+      <UniqueIdentifier>{04a19208-4b0a-43a5-91ee-14f8ee873795}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="shader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

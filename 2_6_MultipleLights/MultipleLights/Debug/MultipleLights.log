@@ -1,0 +1,11 @@
+﻿  MultipleLights.cpp
+d:\software\opengl\include\shader.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\file\opengl\multiplelights\multiplelights\multiplelights.cpp(184): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\multiplelights\multiplelights\multiplelights.cpp(340): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\multiplelights\multiplelights\multiplelights.cpp(341): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\multiplelights\multiplelights\multiplelights.cpp(345): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\multiplelights\multiplelights\multiplelights.cpp(346): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\multiplelights\multiplelights\multiplelights.cpp(347): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\multiplelights\multiplelights\multiplelights.cpp(348): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\multiplelights\multiplelights\multiplelights.cpp(357): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  MultipleLights.vcxproj -> D:\File\OpenGL\MultipleLights\Debug\MultipleLights.exe

@@ -1,0 +1,26 @@
+﻿  Materials.cpp
+d:\software\opengl\include\shader.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\file\opengl\2_3_materials\materials\materials.cpp(153): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_3_materials\materials\materials.cpp(175): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\file\opengl\2_3_materials\materials\materials.cpp(176): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\file\opengl\2_3_materials\materials\materials.cpp(177): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\file\opengl\2_3_materials\materials\materials.cpp(253): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_3_materials\materials\materials.cpp(254): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_3_materials\materials\materials.cpp(258): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_3_materials\materials\materials.cpp(259): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_3_materials\materials\materials.cpp(260): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_3_materials\materials\materials.cpp(261): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\2_3_materials\materials\materials.cpp(270): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Materials.vcxproj -> D:\file\OpenGL\2_3_Materials\Debug\Materials.exe

@@ -1,0 +1,4 @@
+﻿  Triangle.cpp
+d:\file\opengl\triangle\triangle\shader.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\file\opengl\triangle\triangle\shader.h(102): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+  Triangle.vcxproj -> D:\file\OpenGL\Triangle\Debug\Triangle.exe

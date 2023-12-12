@@ -1,0 +1,3 @@
+﻿  TextRendering.cpp
+d:\file\opengl\7_2_textrendering\textrendering\textrendering.cpp(126): warning C4838: 从“FT_Pos”转换到“unsigned int”需要收缩转换
+  TextRendering.vcxproj -> D:\File\OpenGL\7_2_TextRendering\Debug\TextRendering.exe

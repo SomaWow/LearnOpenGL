@@ -1,0 +1,10 @@
+﻿  4_1_DepthTesting.cpp
+d:\file\opengl\4_1_depthtesting\4_1_depthtesting\4_1_depthtesting.cpp(208): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_1_depthtesting\4_1_depthtesting\4_1_depthtesting.cpp(286): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_1_depthtesting\4_1_depthtesting\4_1_depthtesting.cpp(287): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_1_depthtesting\4_1_depthtesting\4_1_depthtesting.cpp(291): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_1_depthtesting\4_1_depthtesting\4_1_depthtesting.cpp(292): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_1_depthtesting\4_1_depthtesting\4_1_depthtesting.cpp(294): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_1_depthtesting\4_1_depthtesting\4_1_depthtesting.cpp(295): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_1_depthtesting\4_1_depthtesting\4_1_depthtesting.cpp(302): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  4_1_DepthTesting.vcxproj -> D:\File\OpenGL\4_1_DepthTesting\Debug\4_1_DepthTesting.exe

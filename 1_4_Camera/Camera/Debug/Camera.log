@@ -1,0 +1,13 @@
+﻿D:\software\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(CoordinateSystems.vcxproj, Triangle.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Camera.cpp
+d:\file\opengl\4_camera\camera\shader.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\file\opengl\4_camera\camera\shader.h(105): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+d:\file\opengl\4_camera\camera\camera.cpp(219): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_camera\camera\camera.cpp(308): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_camera\camera\camera.cpp(309): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_camera\camera\camera.cpp(313): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_camera\camera\camera.cpp(314): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_camera\camera\camera.cpp(315): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_camera\camera\camera.cpp(316): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\4_camera\camera\camera.cpp(325): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Camera.vcxproj -> D:\file\OpenGL\4_Camera\Debug\Camera.exe

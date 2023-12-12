@@ -1,0 +1,18 @@
+﻿  glad.c
+d:\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: “APIENTRY”: 宏重定义
+  d:\software\opengl\include\glad\glad.h(32): note: 参见“APIENTRY”的前一个定义
+  PointShadows.cpp
+d:\file\opengl\5_3_2_pointshadows\pointshadows\pointshadows.cpp(131): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_2_pointshadows\pointshadows\pointshadows.cpp(140): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+d:\file\opengl\5_3_2_pointshadows\pointshadows\pointshadows.cpp(362): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_2_pointshadows\pointshadows\pointshadows.cpp(363): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_2_pointshadows\pointshadows\pointshadows.cpp(367): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_2_pointshadows\pointshadows\pointshadows.cpp(368): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_2_pointshadows\pointshadows\pointshadows.cpp(370): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_2_pointshadows\pointshadows\pointshadows.cpp(371): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\file\opengl\5_3_2_pointshadows\pointshadows\pointshadows.cpp(380): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  PointShadows.vcxproj -> D:\File\OpenGL\5_3_2_PointShadows\Debug\PointShadows.exe
